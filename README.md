@@ -1,1 +1,1 @@
-# Diabets_KNN-classifier
+# Diabets.csv classifier with KNN classifier
